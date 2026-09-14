@@ -92,7 +92,7 @@ The final system is intended to distinguish between known threats and unknown/an
 
 ---
 
-### CodeMate — Team Hunting Platform
+### [CodeMate — Team Hunting Platform](https://github.com/kaine-hub/CodeMate)
 
 A Spring Boot-based platform designed to help people find teams for technical projects and competitions.
 
