@@ -1,15 +1,15 @@
 # Vitthal R. Kakani
 
 ```text
-┌──[ vitthal@github ]──[ ~/profile ]
+┌──[ kai@github ]──[ ~/profile ]
 │
-├── role        : Computer Science & Engineering Student
+├── role           : Computer Science & Engineering Student
 ├── specialization : Cyber-Security
-├── location    : BOM / NMI
-├── semester    : 5th
-├── graduation  : 2028
+├── location       : BOM / NMI
+├── semester       : 5th
+├── graduation     : 2028
 │
-└── focus       : Cybersecurity | Networking | Linux | Ethical Hacking
+└── focus          : Cybersecurity | Networking | Linux | Ethical Hacking
 ```
 
 I'm a Computer Science and Engineering student specializing in Cyber-Security, currently building my foundation around network security, ethical hacking, Linux, and software development.
